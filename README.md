@@ -1,7 +1,8 @@
 calculator
-[Image Description](calculator.png)
+![Image Description](calculator.png)
 
 Create Standalone Executable
+<hr>
 
 pip install pyinstaller
 <br>
