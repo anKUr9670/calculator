@@ -1,4 +1,5 @@
 calculator
+![Image Description](calculator.jpg)
 
 Create Standalone Executable
 
